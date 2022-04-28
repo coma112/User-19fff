@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Coma112
-- ⚙️ PixelDungeon Developer
-- 🎟️ Java, HTML, CSS, JavaScript
+🎩 [+] Java Developer
+⚙️ [+] Currently working on PixelDungeon Development

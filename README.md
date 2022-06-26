@@ -1,3 +1,3 @@
-🎩 [+] Java Developer
+🎩 [+] Trash Java Developer
 ⚙️ [+] Currently working on Nothing
 📋 [+] Student from Europe, Hungary.

@@ -1,3 +1,3 @@
-🎩 [+] Java, HTML, CSS, JS Developer
-⚙️ [+] Currently working on PixelDungeon Development
+🎩 [+] Junior Java Developer. Senior HTML, CSS, JavaScript Developer. 
+⚙️ [+] Currently working on Nothing
 📋 [+] Student from Europe, Hungary.

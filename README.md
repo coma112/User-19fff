@@ -1,3 +1,3 @@
 
-⚙️ [+] Currently working on Nothing
+⚙️ [+] Developer @ PixelDungeon, DragonEmpire, AquaNetwork
 📋 [+] Student from Europe, Hungary.

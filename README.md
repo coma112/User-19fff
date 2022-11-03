@@ -1,4 +1,3 @@
-
-⚙️ [+] Developer @ AquaNetwork (Main-Project)
-📋 [+] Student from Europe, Hungary.
-⚙️ [+] EX-Developer @ PixelDungeon, more other smaller servers
+[🌊] Java, HTML, CSS, JS
+[🌊] IT Student from Hungary
+[🌊] Currently working on MagicNetwork development

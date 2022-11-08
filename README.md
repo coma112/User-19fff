@@ -1,3 +1,5 @@
-[🌊] Java, HTML, CSS, JS
-[🌊] IT Student from Hungary
-[🌊] Currently working on MagicNetwork's development
+Hi, I'm Coma112 👋
+
+⚡ Java, HTML/CSS, & Javascript Developer
+
+💬 Discord: Coma112#9336

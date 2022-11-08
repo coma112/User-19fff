@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **Coma112#9336**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

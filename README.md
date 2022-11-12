@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Coma112</h1>
 
-- 🔭 I’m currently working on **MagicNetwork Development**
+- 🔭 I’m currently working on **Nothing**.
 
 - 📫 How to reach me **Coma112#9336**
 

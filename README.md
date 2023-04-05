@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Coma112, Dominik</h1>
 
-- 🔭 I’m currently working on **DevCaveTeam**
+- 🔭 I’m currently working on DevCaveTeam
 - 📫 How to reach me **Coma112#9336**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

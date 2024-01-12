@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **coma112 on Discord**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

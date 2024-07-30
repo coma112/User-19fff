@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **koma112_ on Discord**
 
-<p align="center">
+<p align="middle">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

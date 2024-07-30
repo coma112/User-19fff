@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java and C#**
 
-- 👨‍💻 All of my projects are available at [Gitlab and Github](Gitlab and Github)
+- 👨‍💻 All of my projects are available at Gitlab and Github
 
 - 📫 How to reach me **koma112_ on Discord**
 

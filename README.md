@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Java and C#**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java** (don't)
 
-- 📫 How to reach me **coma112 on Discord**
+- 📫 How to reach me **koma112_ on Discord**
 
 <p align="left">
 </p>

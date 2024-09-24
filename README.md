@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Coma</h1>
 <h3 align="center">Student Java developer from Hungary</h3>
 
-- 🔭 I’m currently working on [Vulcan Studio](https://discord.gg/ePaPFaECDn)
+- 🔭 I’m currently working on Nothing
 
 - 🌱 I’m currently learning **Java and C#**
 

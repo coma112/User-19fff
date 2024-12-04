@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=coma112&label=Profile%20views&color=0e75b6&style=flat" alt="coma112" /> </p>
 
-- 🌱 I’m currently learning **Java and C#**
+<p align = "center"> - 🌱 I’m currently learning **Java and C#** </p>
 
-- 📫 How to reach me **koma112_ on Discord**
+<p align = "center"> - 📫 How to reach me **koma112_ on Discord** </p>
 
 <p align="center">
 </p>

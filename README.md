@@ -6,11 +6,11 @@
 </p>
 
 <p align="center"> 
-    - 🌱 I’m currently learning **Java and C#** 
+    - 🌱 I’m currently learning <b>Java and C#</b> 
 </p>
 
 <p align="center"> 
-    - 📫 How to reach me **koma112_ on Discord** 
+    - 📫 How to reach me <b>koma112_ on Discord</b> 
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

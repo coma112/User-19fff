@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Coma</h1>
 <h3 align="center">Student Java developer from Hungary</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coma112&label=Profile%20views&color=0e75b6&style=flat" alt="coma112" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=coma112&label=Profile%20views&color=0e75b6&style=flat" alt="coma112" /> </p>
 
 - 🌱 I’m currently learning **Java and C#**
 
 - 📫 How to reach me **koma112_ on Discord**
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

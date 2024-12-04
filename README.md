@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **koma112_ on Discord**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

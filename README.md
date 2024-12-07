@@ -8,9 +8,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src=""  />
-
 ###
 
 <div align="center">
@@ -47,10 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Coma112/Coma112/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Coma112/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coma112&layout=donut-vertical" alt="Top Languages" />
-</p>

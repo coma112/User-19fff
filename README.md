@@ -44,4 +44,8 @@
 
 <br clear="both">
 
+<div align="center">
+  <img src="https://github.com/Coma112/Coma112/blob/output/github-snake-dark.svg" alt="snake gif" />
+</div>
+
 ###

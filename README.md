@@ -1,31 +1,127 @@
-<h1 align="center">Hi 👋, I'm coma</h1>
-<h3 align="center">A dev from Hungary</h3>
+# 🚀 Welcome to my Digital Universe
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=user-19fff&label=Profile%20views&color=0e75b6&style=flat" alt="user-19fff" /> </p>
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4444&background=00000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+coma+%F0%9F%91%8B;Full-Stack+Developer+from+Hungary;Always+learning%2C+always+coding;Building+the+future%2C+one+line+at+a+time)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=user-19fff" alt="user-19fff" /></a> </p>
+  <img src="https://komarev.com/ghpvc/?username=user-19fff&label=Profile%20Views&color=FF4444&style=for-the-badge" alt="Profile Views" />
+  
+  [![GitHub followers](https://img.shields.io/github/followers/user-19fff?style=for-the-badge&color=FF4444&labelColor=1C2128)](https://github.com/user-19fff)
+  [![GitHub stars](https://img.shields.io/github/stars/user-19fff?style=for-the-badge&color=FF4444&labelColor=1C2128)](https://github.com/user-19fff)
 
-- 🔭 I’m currently working on [MonGen's cave](https://github.com/MonGen-s-Cave)
+</div>
 
-- 🌱 I’m currently learning **anything that comes in my way**
+---
 
-- 🔭 I’m currently working on [MineLush](https://discord.gg/mNXx5nZncs)
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on [FyreMC](https://www.fyremc.hu/)
+```java
+Map<String, Object> aboutMe = Map.of(
+            "location", "Hungary 🇭🇺",
+            "role", "dev",
+            "passions", List.of("Java", "Databases", "System Architecture"),
+            "currentFocus", "Building scalable applications",
+            "lifePhilosophy", "Code with purpose, learn with passion",
+            "contact", Map.of(
+                "discord", "user_19fff",
+                "availability", "Always open to interesting projects!"
+            )
+        );
+```
 
-- 💬 Ask me about **java, databases**
+## 🔥 Current Projects
 
-- 📫 How to reach me **Discord > user_19fff**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+| 🎯 Project | 🌟 Description | 🔗 Link |
+|------------|---------------|----------|
+| **MonGen's Cave** | Innovative development workspace | [Explore →](https://github.com/MonGen-s-Cave) |
+| **MineLush** | Community-driven gaming platform | [Join Discord →](https://discord.gg/mNXx5nZncs) |
+| **FyreMC** | Next-gen Minecraft server | [Visit →](https://www.fyremc.hu/) |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=user-19fff&show_icons=true&locale=en&layout=compact" alt="user-19fff" /></p>
+## 🛠️ Technology Arsenal
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=user-19fff&show_icons=true&locale=en" alt="user-19fff" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=user-19fff&" alt="user-19fff" /></p>
+### 💻 Core Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### 🗄️ Database Mastery
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ⚡ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=user-19fff&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF4444&icon_color=FF4444&text_color=C9D1D9"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-19fff&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FF4444&text_color=C9D1D9"/>
+
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user-19fff&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FF4444&ring=FF4444&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FF4444&sideNums=FF4444&dates=8B949E"/>
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=user-19fff&theme=nord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+  
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user-19fff&theme=github-compact&hide_border=true&bg_color=0D1117&color=FF4444&line=FF4444&point=FF6B6B"/>
+  
+</div>
+
+## 🎯 What I'm Up To
+
+- 🔭 **Currently building:** Scalable backend systems and database architectures
+- 🌱 **Learning:** Advanced system design  
+- 💬 **Ask me about:** Java systems, database optimization, and system architecture
+- ⚡ **Fun fact:** I like being in the background
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/user_19fff)
+  
+  **Discord:** `user_19fff`
+  
+  <br>
+  
+  ![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:FF4444,100:FF6B6B&height=100&section=footer)
+  
+</div>
+
+---
+
+<div align="center">
+  <br><br>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-electricity.svg"/>
+</div>

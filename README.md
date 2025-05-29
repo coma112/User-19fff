@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4444&background=00000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+coma+%F0%9F%91%8B;Full-Stack+Developer+from+Hungary;Always+learning%2C+always+coding;Building+the+future%2C+one+line+at+a+time)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4444&background=00000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+coma+%F0%9F%91%8B)
 
   <img src="https://komarev.com/ghpvc/?username=user-19fff&label=Profile%20Views&color=FF4444&style=for-the-badge" alt="Profile Views" />
   

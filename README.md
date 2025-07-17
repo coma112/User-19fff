@@ -13,22 +13,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```java
-Map<String, Object> aboutMe = Map.of(
-            "location", "Hungary 🇭🇺",
-            "role", "dev",
-            "passions", List.of("Java", "Databases", "System Architecture"),
-            "currentFocus", "Building scalable applications",
-            "lifePhilosophy", "Code with purpose, learn with passion",
-            "contact", Map.of(
-                "discord", "user_19fff",
-                "availability", "Always open to interesting projects!"
-            )
-        );
-```
-
 ## 🔥 Current Projects
 
 <div align="center">
@@ -36,7 +20,6 @@ Map<String, Object> aboutMe = Map.of(
 | 🎯 Project | 🌟 Description | 🔗 Link |
 |------------|---------------|----------|
 | **MonGen's Cave** | Innovative development workspace | [Explore →](https://github.com/MonGen-s-Cave) |
-| **MineLush** | Community-driven gaming platform | [Join Discord →](https://discord.gg/mNXx5nZncs) |
 | **FyreMC** | Next-gen Minecraft server | [Visit →](https://www.fyremc.hu/) |
 
 </div>

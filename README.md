@@ -4,10 +4,10 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4444&background=00000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+coma+%F0%9F%91%8B)
 
-  <img src="https://komarev.com/ghpvc/?username=user-19fff&label=Profile%20Views&color=FF4444&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=coma112&label=Profile%20Views&color=FF4444&style=for-the-badge" alt="Profile Views" />
   
-  [![GitHub followers](https://img.shields.io/github/followers/user-19fff?style=for-the-badge&color=FF4444&labelColor=1C2128)](https://github.com/user-19fff)
-  [![GitHub stars](https://img.shields.io/github/stars/user-19fff?style=for-the-badge&color=FF4444&labelColor=1C2128)](https://github.com/user-19fff)
+  [![GitHub followers](https://img.shields.io/github/followers/coma112?style=for-the-badge&color=FF4444&labelColor=1C2128)](https://github.com/coma112)
+  [![GitHub stars](https://img.shields.io/github/stars/coma112?style=for-the-badge&color=FF4444&labelColor=1C2128)](https://github.com/coma112)
 
 </div>
 
@@ -52,15 +52,15 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=user-19fff&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF4444&icon_color=FF4444&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coma112&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF4444&icon_color=FF4444&text_color=C9D1D9"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-19fff&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FF4444&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coma112&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FF4444&text_color=C9D1D9"/>
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user-19fff&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FF4444&ring=FF4444&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FF4444&sideNums=FF4444&dates=8B949E"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coma112&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FF4444&ring=FF4444&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FF4444&sideNums=FF4444&dates=8B949E"/>
 
 </div>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=user-19fff&theme=nord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=coma112&theme=nord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
   
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user-19fff&theme=github-compact&hide_border=true&bg_color=0D1117&color=FF4444&line=FF4444&point=FF6B6B"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coma112&theme=github-compact&hide_border=true&bg_color=0D1117&color=FF4444&line=FF4444&point=FF6B6B"/>
   
 </div>
 

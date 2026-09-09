@@ -19,7 +19,7 @@
 
 | 🎯 Project | 🌟 Description | 🔗 Link |
 |------------|---------------|----------|
-| **SyntaxOwl** | Education typeshit | [Link →](https://syntaxowl.eu/) |
+| **Flucite** | Custom Softwares | [Link →](https://flucite.com/) |
 | **JukePix** | How well do you know ur fav artist? | [Link →](https://jukepix.eu/) |
 
 </div>
